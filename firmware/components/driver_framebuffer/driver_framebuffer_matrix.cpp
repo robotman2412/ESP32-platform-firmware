@@ -41,7 +41,7 @@ matrix_2d matrix_2d_scale(float x, float y) {
 }
 
 // Potentially.
-// matrix_3x2_2d matrix_2d_shear(float x, float y);
+// matrix_2d matrix_2d_shear(float x, float y);
 
 
 //creates a 3D matrix representing the given rotation in radians
